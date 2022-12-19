@@ -1,3 +1,4 @@
+# say hello!
 # config.gradle
 
 1.项目依赖版本
